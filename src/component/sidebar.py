@@ -56,5 +56,5 @@ def render_sidebar():
         "chunk_overlap": chunk_overlap,
         "temperature": temperature,
         "k_chunks": k_chunks,
-        "uploaded_files": uploaded_file
+        "uploaded_file": uploaded_file
     }
