@@ -6,3 +6,5 @@ pypdf
 chromadb
 langchain_chroma
 streamlit
+langchain-openai
+langchain-text-splitters
