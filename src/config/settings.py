@@ -21,6 +21,7 @@ AVAILABLE_MODELS = [
     "gpt-4",
     "gpt-4o"
     "gpt-4o-mini",
+    gpt-6-astra
 ]
 DEFAULT_MODEL = "gpt-4o-mini"
 
